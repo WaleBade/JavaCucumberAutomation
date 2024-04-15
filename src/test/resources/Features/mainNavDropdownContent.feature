@@ -1,5 +1,7 @@
 Feature: Luma home Page
 
+ # Add text for github
+
   Scenario: Verify that main navigation dropdown links have the correct content
 
     Given I am on the luma landing page
